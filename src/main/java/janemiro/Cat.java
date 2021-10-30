@@ -33,5 +33,4 @@ public class Cat {
         myshka.shelterPromo();
 
     }
-
 }
