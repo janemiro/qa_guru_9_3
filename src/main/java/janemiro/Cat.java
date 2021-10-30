@@ -32,7 +32,6 @@ public class Cat {
         murzik.shelterPromo();
         myshka.shelterPromo();
 
-
     }
 
 }

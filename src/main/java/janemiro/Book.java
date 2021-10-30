@@ -30,6 +30,5 @@ public class Book {
         javaTextbook.libraryCatalog();
         idiot.libraryCatalog();
 
-
     }
 }
